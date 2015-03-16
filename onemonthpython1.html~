@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf8">
+	<title>One month python</title>
+	<link rel="stylesheet" href="onemonthpython2.css">
+
+</head>
+
+
+<body>
+
+<header>
+
+<div id="logo"><img src="logo-python.svg"/>
+</div>
+
+<div class="bouton">
+	<p><a href="">SIGN IN</a></p>
+</div>
+
+</header>
+
+<section>
+
+<h1><big>BUILD YOUR FIRST PYTHON APP IN JUST ONE MONTH</big></h1>
+
+<p>Have you ever wanted to build dynamic web apps?
+	<br></br>
+	Is your idea the text Tumblr?
+	<br></br>	
+	Do you want to learn django?
+</p>
+<p><br><br>
+	Then One Month Python is for you
+</p>
+
+
+
+<form>
+<input class="email" placeholder="GET ON THE EARLY ACCESS LIST" size="20" type="email">
+
+
+<imput class="clic-bouton" type="submit" value="GO"><a href=""><strong>GO</strong></a></imput>
+
+
+</form>
+
+
+</section>
+<footer> © 2013-2015 One Month, Inc. |<a href="">Privacy Policy</a></footer>
+
+
+</body>
+
+</html>
